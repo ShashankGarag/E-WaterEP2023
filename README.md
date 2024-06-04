@@ -1,0 +1,1 @@
+This is the Arduino program to detect variations in water level and make the corresponding display output for an attatchable device to one's water bottle. This notifies the user when to refill their bottle, or when to drink water.
